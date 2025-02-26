@@ -1,4 +1,4 @@
-# Team 11 - Backend
+# Backend for Final Year Project
 
 The "Hack-Attack" (Working title) web application is a web-based game focused on educating developers on the technical aspects of cyber security, such as DDOS Attacks or SQL Injection. 
 
